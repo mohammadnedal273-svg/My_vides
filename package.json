@@ -1,0 +1,17 @@
+{
+  "name": "my-vides-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "render": "bash render.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
